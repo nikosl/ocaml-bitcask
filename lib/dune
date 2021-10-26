@@ -1,0 +1,4 @@
+(library
+ (name bitcask)
+ (public_name bitcask)
+ (libraries))

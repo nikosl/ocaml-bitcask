@@ -1,0 +1,4 @@
+(tests
+ (names bitcask_test)
+ (package bitcask)
+ (libraries alcotest bitcask))
